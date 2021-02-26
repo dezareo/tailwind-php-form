@@ -2,8 +2,6 @@
 
 ![alt text](https://raw.githubusercontent.com/dezareo/tailwind-php-form/main/tailwind-php-form.png)
 
-WordPress plugin - php form styled by Tailwind CSS framework
-
 ## WordPress plugin - php form styled by Tailwind CSS Framework
 
 To use this plugin you must have the Tailwind CSS Framework ver 2.0 implemented into WordPress theme. The plugin allows you to use a responsive contact form.
