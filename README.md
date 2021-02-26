@@ -14,7 +14,7 @@ It is necessary to create a WordPress page that will inform the sender of the me
 
 After that, in the tailwin-php-form.php file, follow the instructions written in the comments, you need to enter the URL of the previously mentioned web page and enter your email address to which you will receive messages.
 
-Add [tailwind_php_form] shortcode to the desired web page.
+Add `[tailwind_php_form]` shortcode to the desired web page.
 
 ## Source
 
